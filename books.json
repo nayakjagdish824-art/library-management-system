@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "ISBN001",
+    "available": true
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Cormen et al.",
+    "isbn": "ISBN002",
+    "available": true
+  },
+  {
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "isbn": "ISBN003",
+    "available": true
+  },
+  {
+    "title": "Python Basics",
+    "author": "John Doe",
+    "isbn": "101",
+    "available": false
+  }
+]

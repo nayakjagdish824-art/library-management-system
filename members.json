@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alice",
+    "member_id": "M001",
+    "borrowed_books": []
+  },
+  {
+    "name": "Bob",
+    "member_id": "M002",
+    "borrowed_books": []
+  },
+  {
+    "name": "Jagdish Nayak",
+    "member_id": "M01",
+    "borrowed_books": [
+      "101"
+    ]
+  }
+]
